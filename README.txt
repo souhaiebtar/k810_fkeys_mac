@@ -12,4 +12,10 @@ setuid bit set before launching.
 
 Feel free to work with it and use as needed.
 
+#### Build
+`sudo make`
 
+#### Run
+`sudo ./k810 on`
+or
+`sudo ./k810 off`
